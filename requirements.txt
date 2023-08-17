@@ -1,0 +1,9 @@
+flask
+openai
+pydub
+translate
+deep_translator
+gtts
+SpeechRecognition
+sounddevice
+pygame
