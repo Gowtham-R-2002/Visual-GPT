@@ -8,3 +8,4 @@ SpeechRecognition
 sounddevice
 pygame
 gunicorn
+portaudio-bin
